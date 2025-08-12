@@ -7,3 +7,4 @@ Real-time financial summary cards
 Interactive transaction form
 Live pie chart of expenses
 Recent transactions list
+more to be updated soon.

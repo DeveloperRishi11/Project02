@@ -15,6 +15,7 @@ import os
 from datetime import datetime, date
 import threading
 import webbrowser
+import json
 
 class FinanceData:
     def __init__(self):

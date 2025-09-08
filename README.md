@@ -33,6 +33,8 @@ Calculate probabilistic victory predictions
 📊 Professional Visualizations: Publication-ready charts and graphs
 🚀 Easy to Run: Single command execution with comprehensive output
 
+Some more data to be added soon
+
 🛠️ Installation
 Prerequisites
 

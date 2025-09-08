@@ -41,3 +41,4 @@ Prerequisites
 Python 3.7 or higher
 pip package manager
 Can use anaconda too
+Compile it on vs code
